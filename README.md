@@ -1,4 +1,4 @@
-## Hey, eu sou o Mateus | Hi, I'm Mateus | Hola, soy Mateus 🤙
+## Oi, eu sou o Mateus | Hi, I'm Mateus | Hola, yo soy Mateus 🤙
 
 <div align="center">
   <a href="https://github.com/omateusteles">
